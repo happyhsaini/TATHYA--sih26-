@@ -16,7 +16,7 @@ handling. Sensitive records — FIRs, investigation reports, witness statements,
 reports, charge sheets, court filings, evidence records — are hard to locate quickly, easy
 to tamper with, and difficult to share securely between authorized stakeholders.
 
-The official problem statement identifies the core pain points:
+The official problem statement identifies the core pain points: 
 
 * Difficulty locating documents quickly
 * Unauthorized access to confidential information
