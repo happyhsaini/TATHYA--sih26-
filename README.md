@@ -1,7 +1,7 @@
 ﻿# SIH26190 — Secure Case, Evidence & Legal Document Management System
 
 Smart India Hackathon 2026 prototype
-(**PS ID: SIH26190** · NCRB / Ministry of Home Affairs · Blockchain & Cybersecurity)
+(**PS ID: SIH26190** · NCRB / Ministry of Home Affairs · Blockchains & Cybersecurity)
 
 A case-centric platform for managing sensitive legal and investigation documents: secure
 storage, versioning, SHA-256 integrity verification, blockchain hash anchoring, audit
@@ -16,7 +16,7 @@ handling. Sensitive records — FIRs, investigation reports, witness statements,
 reports, charge sheets, court filings, evidence records — are hard to locate quickly, easy
 to tamper with, and difficult to share securely between authorized stakeholders.
 
-The official problem statement identifies the core pain points:  
+The official problem statement identifies the core pain points:
 
 * Difficulty locating documents quickly
 * Unauthorized access to confidential information
@@ -333,7 +333,7 @@ assault, property crime, arms trafficking, missing persons and embezzlement scen
 * **Tamper** — the core differentiator: blockchain-anchored integrity proof
 * **RBAC** — backend-enforced, not just hidden buttons
 
----
+---------------------------------------------------------
 
 ## 13. Status & Scope
 
@@ -346,7 +346,7 @@ or national-scale deployment.
 version control, SHA-256 integrity, blockchain anchoring, audit trail, search, OCR, and a
 permission-aware RAG/AI assistant.
 
----
+---------------------------------------------------
 
 ## 14. Documentation
 
